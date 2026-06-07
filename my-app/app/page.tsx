@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen bg-background text-foreground">
       <section className="relative flex min-h-screen flex-col items-center justify-center px-6 text-center">
         <div className="max-w-3xl space-y-8">
-          <h1 className="text-4xl font-semibold tracking-tight sm:text-6xl bg-gradient-to-r from-pink-100 to-purple-500 bg-clip-text text-transparent">
+          <h1 className="text-4xl font-semibold tracking-tight sm:text-6xl">
             In&nbsp;Sync
           </h1>
 
